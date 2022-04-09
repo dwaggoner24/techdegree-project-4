@@ -1,2 +1,2 @@
 # techdegree-project-4
- techdegree project 4
+Random quote generator
